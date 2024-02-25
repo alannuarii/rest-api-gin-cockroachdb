@@ -2,8 +2,7 @@ package controllers
 
 import (
 	"net/http"
-
-	"github.com/alannuarii/rest-api-gin-cockroachdb/models"
+	"rest-api-gin-cockroachdb/models"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 )

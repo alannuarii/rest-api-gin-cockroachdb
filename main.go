@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/alannuarii/rest-api-gin-cockroachdb/controllers"
-	"github.com/alannuarii/rest-api-gin-cockroachdb/models"
+	"rest-api-gin-cockroachdb/controllers"
+	"rest-api-gin-cockroachdb/models"
 	"github.com/gin-gonic/gin"
 )
 
